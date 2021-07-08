@@ -1,0 +1,27 @@
+{
+  "name": "aws-sns",
+  "version": "1.0.0",
+  "description": "AWS SNS Subscriptions Activator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugnuagrawal/aws-sns.git"
+  },
+  "keywords": [
+    "AWS",
+    "SNS"
+  ],
+  "author": "Jugnu Agrawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jugnuagrawal/aws-sns/issues"
+  },
+  "homepage": "https://github.com/jugnuagrawal/aws-sns#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^11.8.2"
+  }
+}
